@@ -3,4 +3,24 @@
     <string name="create_order_title">Create Order</string>
     <string name="create_order">Create Order</string>
     <string name="action_share">Share</string>
+    <string name="title_top">Top fragment</string>
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizzas</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="store_tab">Stores</string>
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+    <string-array name="pastas">
+        <item>Spaghetti</item>
+        <item>Lasagna</item>
+        <item>Fettuccine</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Chicago</item>
+        <item>New York</item>
+        <item>Philadelphia</item>
+    </string-array>
 </resources>
